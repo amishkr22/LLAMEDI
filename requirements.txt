@@ -1,8 +1,8 @@
-ctransformers==0.2.5
-sentence_transformers==2.2.2
+ctransformers
+sentence_transformers
 pinecone-client
-langchain==0.0.225
+langchain
 flask
 pypdf
-huggingface-hub==0.25.1
-transfomers==4.27.1
+huggingface-hub
+transfomers
