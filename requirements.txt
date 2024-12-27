@@ -4,3 +4,5 @@ pinecone-client
 langchain==0.0.225
 flask
 pypdf
+huggingface-hub==0.25.1
+transfomers==4.27.1
