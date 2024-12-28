@@ -5,4 +5,5 @@ langchain
 flask
 pypdf
 huggingface-hub
-transfomers
+transformers
+-e .
