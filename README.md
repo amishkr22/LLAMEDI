@@ -11,4 +11,5 @@ source activate medibot
 pip install -r requirements.txt 
 ```
 
-## Need to run ipynb file under "model" folder
+### 1. Need to run ipynb file under "model" folder
+### 2. Copy the path from ipynb file and replace it in 
