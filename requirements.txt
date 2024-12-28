@@ -6,4 +6,5 @@ flask
 pypdf
 huggingface-hub
 transformers
+python-dotenv
 -e .
